@@ -30,6 +30,9 @@ const Home = () => {
 
     return (
         <> 
+        <h1 style={{textAlign:'center', margin:'20px'}}>
+        Welcome to Siddhi's Flipkart Clone
+        </h1>
             <NavBar />
             <Box className={classes.component}>
                 <Banner />

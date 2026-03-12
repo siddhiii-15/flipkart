@@ -14,7 +14,7 @@ function App() {
         <BrowserRouter>
           <Header />
           <Box style={{marginTop: 54}}>
-            <h2 style={{textAlign:"center"}}>Flipkart Clone- Siddhi</h2>
+            <h2 style={{textAlign:"center"}}>Flipkart</h2>
             <Switch>
               <Route exact path= '/' component={Home} />
               <Route exact path= '/cart' component={Cart} />
